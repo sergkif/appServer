@@ -1,3 +1,4 @@
+//Not mine code, I just rewrite it a lit, cause my backend developer had some troubles
 const express = require('express')
 const User = require('../models/User')
 const Merchant = require('../models/Merchant')
